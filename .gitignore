@@ -1,0 +1,12 @@
+# Сборка и временные файлы .NET
+bin/
+obj/
+
+# Visual Studio и Rider
+.vs/
+.idea/
+*.user
+*.suo
+
+# Локальные базы и логи
+*.log
